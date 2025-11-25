@@ -1,8 +1,8 @@
 # delta-demo
 demo for github.
 
-#teacher 
+# teacher 
 shardha khapra
 
-#student 
-demo0-student
+# student 
+demo-student
